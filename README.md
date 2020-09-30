@@ -1,7 +1,7 @@
 # Employee Manager
 ![ALT](https://img.shields.io/badge/license-MIT-blue)
 
-![Image of Screenshot](./assets/employeemanagerDEMO.png)
+![Image of Screenshot](assets/employeemanagerDEMO.png)
 
 ## Description
 A small command line application that allows the user to input information about each of it's employees in order to generate a page displaying all the basic info about them, such as their name, position, email, id number, and position specific questions. This then generates an html page to neatly and clearly display that information.
