@@ -1,0 +1,27 @@
+.card {
+    margin: 15px;
+    box-shadow: 2px 2px 5px #000000;
+    border-radius: 25px;
+}
+
+.card-header {
+    color: rgb(163, 130, 162);
+}
+
+body {
+    background-color: rgb(253, 223, 228);
+}
+
+.jumbotron {
+    background-color: rgb(163, 130, 162)
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(250, 248, 248);
+    font-weight: bolder;
+}
+
+.fas {
+    color: rgb(78, 63, 78);
+}
